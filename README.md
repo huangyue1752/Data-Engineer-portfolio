@@ -8,7 +8,7 @@ The Power Point includes a few things
 2) Regression model building (Multilinear Regression integrated with Autoregression)
 3) Test(Heteroscedasticity and Normality)
 4) Future improvement (Since this project was done 5 years ago, I added my new points of view regarding future improvement)
-
+![](https://github.com/huangyue1752/Data-Science-Engineer-portfolio/blob/main/image/image.png)
 
 # [RTD data transformation project](https://github.com/huangyue1752/RTD-data-transformation)
 - Goal: Monthly, we receive a large data dump that include historical sales in RTD category. This data dump is messy, unpivotable, and not aligned with our calendar. The goal is to transform the data into a clean dataset aligned with our calendar.
@@ -17,7 +17,7 @@ The Power Point includes a few things
 2) The fiscal calendar of the data providing company has been transformed to our calendar
 3) Malt projects in Quebec are separated from the total RTD volume
 4) Data cleaning and generate a transformed dataset
-
+   ![](https://github.com/huangyue1752/Data-Science-Engineer-portfolio/blob/main/image/image%20(1).png)
 
 
 # [Holman API data pipeline project](https://github.com/huangyue1752/Holman-ETL-Project)
@@ -28,3 +28,4 @@ The Power Point includes a few things
 3) Transform Json format to data frame. 
 4) Data cleaning.
 5) Generate the result files with creation time included in the file name and drop them to a designated folder
+   ![](https://github.com/huangyue1752/Data-Science-Engineer-portfolio/blob/main/image/1.png)
