@@ -1,4 +1,4 @@
-# Data Science/Data Engineer Portfolio
+# Tyler's Data Science/Data Engineer Portfolio
 This portfolio includes 3 data engineer and data science projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
 
 # [Multilinear Regression Integrated with Autoregression to Forecast Electricity Consumption in Quebec](https://github.com/huangyue1752/Multiple-Regression-Analysis-for-Electricity-Consumption)
