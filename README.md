@@ -1,4 +1,4 @@
-# Tyler's portfolio
+# Tyler's Portfolio
 This is my portfolio that includes 3 data engineer and data science project I did in the past. Please click the project title to access the corresponding repository, where you can find more details.
 
 # [Multilinear Regression Integrated with Autoregression to Forecast Electricity Consumption in Quebec](https://github.com/huangyue1752/Multiple-Regression-Analysis-for-Electricity-Consumption)
@@ -11,7 +11,7 @@ The Power Point includes a few things
 - Future improvement (Since this project was done 5 years ago, I added my new points of view regarding future improvement)
 ![](/image/image.png)
 
-# [RTD data transformation project](https://github.com/huangyue1752/RTD-data-transformation)
+# [RTD Data Transformation Project](https://github.com/huangyue1752/RTD-data-transformation)
 Goal: Monthly, we receive a large data dump that include historical sales in RTD category. This data dump is messy, unpivotable, and not aligned with our calendar. The goal is to transform the data into a clean dataset aligned with our calendar.
   
   In the Python transformation, we achieved a few things below
@@ -22,7 +22,7 @@ Goal: Monthly, we receive a large data dump that include historical sales in RTD
    ![](/image/image%20(1).png)
 
 
-# [Holman API data pipeline project](https://github.com/huangyue1752/Holman-ETL-Project)
+# [Holman API Data Pipeline Project](https://github.com/huangyue1752/Holman-ETL-Project)
 Goal: Monthly, we need to extract tables from multiple API end points and load the data to our systems.These tables provide vehicle information about our vehicle inventory, fuel consumption, odometer information etc. We automated the whole ETL(Extract, Tranform, and Load) process with Python, Docker, and Airflow.
 
   In the API extraction design, the code does a few things below
