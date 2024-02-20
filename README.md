@@ -1,5 +1,5 @@
-# Tyler's Portfolio
-This is my portfolio that includes 3 data engineer and data science project I did in the past. Please click the project title to access the corresponding repository, where you can find more details.
+# Data Science/Data Engineer Portfolio
+This portfolio includes 3 data engineer and data science projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
 
 # [Multilinear Regression Integrated with Autoregression to Forecast Electricity Consumption in Quebec](https://github.com/huangyue1752/Multiple-Regression-Analysis-for-Electricity-Consumption)
 Goal: This is a Multiple linear regression project to forecast the electricity consumption in Quebec that I have done 5 years ago. The final model is a multi-linear regression model integrated with Autoregression. You can find the Power Point in the Link above. 
@@ -20,7 +20,6 @@ Goal: Monthly, we receive a large data dump that include historical sales in RTD
 - Malt projects in Quebec are separated from the total RTD volume
 - Data cleaning and generate a transformed dataset
    ![](/image/christopher-robin-ebbinghaus-pgSkeh0yl8o-unsplash.jpeg)
-
 
 # [Holman API Data Pipeline Project](https://github.com/huangyue1752/Holman-ETL-Project)
 Goal: Monthly, we need to extract tables from multiple API end points and load the data to our systems.These tables provide vehicle information about our vehicle inventory, fuel consumption, odometer information etc. We automated the whole ETL(Extract, Tranform, and Load) process with Python, Docker, and Airflow.
