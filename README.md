@@ -2,7 +2,7 @@
 This portfolio includes 3 data engineer and data science projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
 
 # [Multilinear Regression Integrated with Autoregression to Forecast Electricity Consumption in Quebec](https://github.com/huangyue1752/Multiple-Regression-Analysis-for-Electricity-Consumption)
-Goal: This is a Multiple linear regression project to forecast the electricity consumption in Quebec that I have done 5 years ago. The final model is a multi-linear regression model integrated with Autoregression. You can find the Power Point in the Link above. 
+Goal: This is a Multiple linear regression project to forecast the electricity consumption in Quebec that I did 5 years ago. The final model is a multi-linear regression model integrated with Autoregression. You can find the Power Point in the Link above. 
 
 The Power Point includes a few things
 - Variable selection 
