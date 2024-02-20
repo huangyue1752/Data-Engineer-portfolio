@@ -19,7 +19,7 @@ Goal: Monthly, we receive a large data dump that include historical sales in RTD
 - The fiscal calendar of the data providing company has been transformed to our calendar
 - Malt projects in Quebec are separated from the total RTD volume
 - Data cleaning and generate a transformed dataset
-   ![](/image/image%20(1).png)
+   ![](/image/christopher-robin-ebbinghaus-pgSkeh0yl8o-unsplash.jpeg)
 
 
 # [Holman API Data Pipeline Project](https://github.com/huangyue1752/Holman-ETL-Project)
