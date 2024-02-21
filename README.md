@@ -26,8 +26,8 @@ Goal: Monthly, we need to extract tables from multiple API end points and load t
 
   In the API extraction design, the code does a few things below
 - Extract tables (Inventory table, Maintenance table, Fuel tables etc.) from each corresponding API endpoint.
-- Iteration is utilized to retrieve the complete dataset from multiple paged in each API endpoint.
-- Transform Json format to data frame. 
+- Iteration is utilized to retrieve the complete dataset from multiple pages in each API endpoint.
+- Transform Json format to regular data frame. 
 - Data cleaning.
 - Generate the result files with creation time included in the file name and drop them to a designated folder
 - Docker and Airflow are integreted in the ETL process for scheduling automation
