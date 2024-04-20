@@ -1,4 +1,4 @@
-# Tyler's Data Science/Data Engineer Portfolio
+# Tyler's Data Engineer Portfolio
 This portfolio includes 3 data engineer projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
 
 # [RTD Data Transformation Project](https://github.com/huangyue1752/RTD-data-transformation)
