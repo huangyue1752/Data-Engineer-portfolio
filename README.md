@@ -1,15 +1,5 @@
 # Tyler's Data Science/Data Engineer Portfolio
-This portfolio includes 3 data engineer and data science projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
-
-# [Multilinear Regression Integrated with Autoregression to Forecast Electricity Consumption in Quebec](https://github.com/huangyue1752/Multiple-Regression-Analysis-for-Electricity-Consumption)
-Goal: This is a Multiple linear regression project to forecast the electricity consumption in Quebec that I did 5 years ago. The final model is a Multi-linear Regression model integrated with Autoregression. You can find the Power Point in the Link above. You might need to download it for viewing.
-
-The Power Point includes a few things
-- Variable selection 
-- Regression model building (Multilinear Regression integrated with Autoregression)
-- Test(Heteroscedasticity and Normality)
-- Future improvement (since this project was done 5 years ago, I added my point of view today regarding future improvement)
-![](/image/image.png)
+This portfolio includes 3 data engineer projects I did in the past. Please click the project title in blue to access the corresponding repository, where you can find more details.
 
 # [RTD Data Transformation Project](https://github.com/huangyue1752/RTD-data-transformation)
 Goal: Monthly, we receive a large data dump that includes historical sales in RTD category. This data dump is messy, unpivotable, and not aligned with our calendar. The goal is to transform the data into a clean dataset aligned with our calendar.
