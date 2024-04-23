@@ -1,6 +1,6 @@
 # Tyler's Data Engineer Portfolio
 
-Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. please click the project Title to check the code available in repository.
+Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. Please click the project Title to check the code available in repository.
 
 # [RTD Data Transformation Project](https://github.com/huangyue1752/RTD-data-transformation)
 ## Objective:
