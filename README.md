@@ -39,7 +39,7 @@ This project aimed to automate the extraction, transformation, and loading (ETL)
 
 # [VHCS Forecasting Data Loading Project]
 ## Objective:
-This project aimed to automate the aggregation and loading of sales forecast data from multiple files into a centralized dataset for upload to Azure Blob storage, facilitating seamless integration with Snowflake database.
+This project aimed to automate the aggregation and loading of sales forecast data from multiple Microsoft SharePoint files into a centralized dataset for upload to Azure Blob storage, facilitating seamless integration with Snowflake database.
 
 ## Technical Highlights:
 - Developed Python scripts to fetch and consolidate forecasting files from SharePoint.
