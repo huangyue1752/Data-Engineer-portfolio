@@ -9,7 +9,7 @@ Extract Covid data from multiple Rapid API endpoints, transform and combine the 
 ## Technical Highlights:
 - Extracting data from RapidAPI; .ENV was used to store secret information such as URL and API key; TRY function was utilized so we can easily identify HTTP error and connection error.
 - Data transformation in python to generate a centralized table.
-- Importing the centralized table to SQL server for a storage purpose; Authentication setting; coding to avoid duplicate when inserting the datsaset into SQL server database.
+- Importing the centralized table to SQL server for a storage purpose; authentication setting; coding to avoid duplicate when inserting the datsaset into SQL server database.
 - Creating a view in SQL server on the centralized table and connecting that view with Power BI(Data folding).
 
 ## Impact:
