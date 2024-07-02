@@ -4,13 +4,13 @@ Welcome to my data engineering portfolio, where I showcase my expertise in desig
 
 # [Full Stack ETL Project](https://github.com/huangyue1752/Full-Stack-ETL)
 ## Objective:
-Extracting multiple Covid datasources from Rapid API endpoints, transform and combine the data in python, load the data to SQL server via odbc connection in Python, and finally connect SQL server with Power BI to feed the dashboard
+Extract Covid data from multiple Rapid API endpoints, transform and combine the data in python, load the data to SQL server via odbc connection in Python, and finally connect SQL server with Power BI to feed the dashboard
 
 ## Technical Highlights:
-- Extracting data from RapidAPI; .env was used to store secret information such as URL and API key; try function was utilized so we can easily identify HTTP error and connection error.
+- Extracting data from RapidAPI; .ENV was used to store secret information such as URL and API key; TRY function was utilized so we can easily identify HTTP error and connection error.
 - Data transformation in python to generate a centralized table.
 - Importing the centralized table to SQL server for a storage purpose; Authentication setting; coding to avoid duplicate when inserting the datsaset into SQL server database.
-- Created a view in SQL server on the centralized table and connected that view with Power BI(Data folding).
+- Creating a view in SQL server on the centralized table and connecting that view with Power BI(Data folding).
 
 ## Impact:
 - Saved over 20 hours per ETL cycle if done manually.
