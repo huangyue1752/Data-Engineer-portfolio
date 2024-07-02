@@ -37,20 +37,19 @@ This project aimed to automate the extraction, transformation, and loading (ETL)
 
 ---
 
-# [VHCS Forecasting Data Loading Project]
+# [Full Stack ETL Project](https://github.com/huangyue1752/Full-Stack-ETL)
 ## Objective:
-This project aimed to automate the aggregation and loading of sales forecast data from multiple Microsoft SharePoint files into a centralized dataset for upload to Azure Blob storage, facilitating seamless integration with Snowflake database.
+Extracting multiple Covid datasources from Rapid API endpoints, transform and combine the data in python, load the data to SQL server via odbc connection in Python, and finally connect SQL server with Power BI to feed the dashboard
 
 ## Technical Highlights:
-- Developed Python scripts to fetch and consolidate forecasting files from Microsoft SharePoint.
-- Established connectivity with Azure Blob storage for seamless data upload.
-- Created an executable application for one-click data consolidation and upload.
-- Ensured data integrity and security throughout the process.
+- Extracting data from RapidAPI; .env was used to store secret information such as URL and API key; try function was utilized so we can easily identify HTTP error and connection error.
+- Data transformation in python to generate a centralized table.
+- Importing the centralized table to SQL server for a storage purpose; Authentication setting; coding to avoid duplicate when inserting the datsaset into SQL server database.
+- Created a view in SQL server on the centralized table and connected that view with Power BI(Data folding).
 
 ## Impact:
-- Saved over 20 hours per upload cycle for a team of 5 finance professionals.
-- Streamlined forecasting processes, benefiting over 100 stakeholders across VHCS.
-- Enabled faster decision-making through timely availability of consolidated sales forecast data.
-  
+- Saved over 20 hours per ETL cycle if done manually.
+- Streamlined ETL processes.
+
 
 By leveraging Python, automation tools like Airflow and Docker, and a focus on efficiency and accuracy, these projects demonstrate my ability to tackle complex data engineering challenges and drive impactful outcomes for organizations. I look forward to discussing how I can contribute to your data engineering initiatives.
