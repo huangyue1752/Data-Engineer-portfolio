@@ -19,7 +19,7 @@ Developed an ETL pipeline to stream and process real-time Shopify order data usi
 - Established CI/CD pipelines with GitHub Actions for automated deployments.
 
 ## Technologies:
-- Azure, Databricks, Fivetran, DBT, Kafka, GCP Pub/Sub, Python, CI/CD (GitHub Actions), SCD Type 2, Python, SQL, Eventhub
+- Azure, Databricks, Fivetran, DBT, Kafka, GCP Pub/Sub, Python, CI/CD (GitHub Actions), SCD Type 2, Python, SQL, Eventhub, Ruff, Unittest
   
 ---
 
@@ -35,7 +35,7 @@ Developed a real-time data streaming solution to fetch data from the Wikimedia A
 - Conducted end-to-end testing of the entire pipeline to ensure reliable data flow from Wikimedia to Event Hub and MySQL.
 
 ## Technologies:
-- Java, Spring Boot, Apache Kafka, Azure Event Hub, MySQL, EventSource, Jackson
+- Java, Spring Boot, Apache Kafka, Azure Event Hub, MySQL, EventSource, Jackson, Ruff, Unittest
   
 ---
 
