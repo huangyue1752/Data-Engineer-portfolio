@@ -1,4 +1,6 @@
-# Tyler's Data Engineer Portfolio
+# Data Engineer Portfolio
+Email: huangyue1752@gmail.com
+Tel: +15144300566
 
 Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. Please click the project title to check the code available in repository.
 
@@ -62,7 +64,7 @@ This project aimed to automate the extraction, transformation, and loading (ETL)
 - Converted JSON data into structured data frames for analysis.
 - Integrated Docker and Airflow for scheduling and orchestration of ETL tasks.
 
-## Impact:
+## Technologies:
 - Python, Apache Airflow
 
 By leveraging Python, automation tools like Airflow and Docker, and a focus on efficiency and accuracy, these projects demonstrate my ability to tackle complex data engineering challenges and drive impactful outcomes for organizations. I look forward to discussing how I can contribute to your data engineering initiatives.
