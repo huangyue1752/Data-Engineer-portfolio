@@ -2,7 +2,7 @@
 
 Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. Please click the project title to check the code available in repository.
 
-# [Data Engineer Project: Real-Time Shopify Data ETL with Azure Event Hub & Databricks](https://github.com/huangyue1752/DAB_test2)
+# [Data Engineer Project: Real-Time Shopify Data ETL with Kafka, Azure Event Hub & Databricks](https://github.com/huangyue1752/DAB_test2)
 ## Objective:
 Developed an ETL pipeline to stream and process real-time Shopify order data using Azure Event Hub, Databricks, and various cloud technologies for scalable data processing and transformation.
 
