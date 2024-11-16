@@ -31,7 +31,7 @@ Developed a real-time data streaming solution to fetch data from the Wikimedia A
 - Built a multi-module Spring Boot application with Maven, integrating Apache Kafka for real-time data streaming and processing.
 - Implemented a Kafka producer to stream data from the Wikimedia API into a Kafka topic, and a Kafka consumer to forward data to Azure Event Hub.
 - Utilized the EventSource library for processing real-time data from Wikimedia and Jackson for efficient JSON parsing.
-- Configured MySQL within the Spring Boot application to persist data consumed by Kafka, using Spring Data JPAfor efficient data storage.
+- Configured MySQL within the Spring Boot application to persist data consumed by Kafka, using Spring Data JPA for efficient data storage.
 - Conducted end-to-end testing of the entire pipeline to ensure reliable data flow from Wikimedia to Event Hub and MySQL.
 
 ## Technologies:
