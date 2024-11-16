@@ -1,6 +1,6 @@
 # Data Engineer Portfolio
-Name: Yue Huang
-Email: huangyue1752@gmail.com
+Name: Yue Huang  
+Email: huangyue1752@gmail.com  
 Tel: +15144300566
 
 Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. Please click the project title to check the code available in repository.
