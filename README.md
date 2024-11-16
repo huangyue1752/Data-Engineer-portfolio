@@ -3,7 +3,7 @@ Name: Yue Huang
 Email: huangyue1752@gmail.com  
 Tel: +15144300566
 
-Welcome to my data engineering portfolio, where I showcase my expertise in designing and implementing efficient data pipelines to extract, transform, and load data, thus enabling streamlined data-driven decision-making processes. Please click the project title to check the code available in repository.
+Welcome to my data engineering portfolio. Please click the project titles below to access the code in the repository.
 
 # [Data Engineer Project: Real-Time Shopify Data ETL with Kafka, Azure Event Hub & Databricks](https://github.com/huangyue1752/DAB_test2)
 ## Objective:
@@ -23,7 +23,7 @@ Developed an ETL pipeline to stream and process real-time Shopify order data usi
   
 ---
 
-# [Real-Time Data Sync from Wikimedia API to MySQL using Kafka](https://github.com/huangyue1752/kafka_wikimedia_project)
+# [Data Engineer Project: Real-Time Data Sync from Wikimedia API to MySQL using Kafka](https://github.com/huangyue1752/kafka_wikimedia_project)
 ## Objective:
 Developed a real-time data streaming solution to fetch data from the Wikimedia API, process it with Kafka, and forward it to MySQL for further use, enabling efficient data storage and processing.
 
