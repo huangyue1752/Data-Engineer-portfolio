@@ -15,7 +15,7 @@ Developed an ETL pipeline to stream and process real-time Shopify order data usi
 - Developed Databricks notebooks using PySpark for real-time ingestion from Event Hub, implementing checkpointing for data reliability across Bronze, Silver, and Golden transformation layers.
 - Integrated dimensional data via Fivetran, and implemented Slowly Changing Dimension (SCD) Type 2 for data versioning.
 - Used DBT for data transformation, building views and tables for reporting and dashboards.
-- Ensured code quality with unit tests and data linting using Ruff.
+- Ensured code quality with unit tests and code linting using Ruff.
 - Established CI/CD pipelines with GitHub Actions for automated deployments.
 
 ## Technologies:
