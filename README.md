@@ -68,4 +68,3 @@ This project aimed to automate the extraction, transformation, and loading (ETL)
 ## Technologies:
 - Python, Apache Airflow
 
-By leveraging Python, automation tools like Airflow and Docker, and a focus on efficiency and accuracy, these projects demonstrate my ability to tackle complex data engineering challenges and drive impactful outcomes for organizations. I look forward to discussing how I can contribute to your data engineering initiatives.
