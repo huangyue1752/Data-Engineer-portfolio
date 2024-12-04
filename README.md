@@ -14,12 +14,13 @@ Developed an ETL pipeline to stream and process real-time Shopify order data usi
 - Deployed Azure Unity Catalog and Key Vault for enhanced data security and governance.
 - Developed Databricks notebooks using PySpark for real-time ingestion from Event Hub, implementing checkpointing for data reliability across Bronze, Silver, and Golden transformation layers.
 - Integrated dimensional data via Fivetran, and implemented Slowly Changing Dimension (SCD) Type 2 for data versioning.
-- Used DBT for data transformation, building views and tables for reporting and dashboards.
+- Used DBT for data transformation, building views and tables for reporting and dashboards and deploy it with Apache Airflow
 - Ensured code quality with unit tests and code linting using Ruff.
-- Established CI/CD pipelines with GitHub Actions for automated deployments.
-
+- Established CI/CD pipelines with DAB(Data Asset Bundle) or Terraform((IaC) deployed by GitHub Actions for automation.
+  [Data Engineer Project: Real-Time Shopify Data ETL with Kafka, Azure Event Hub & Databricks](https://github.com/huangyue1752/DAB_test2)
+  
 ## Technologies:
-- Azure, Databricks, Fivetran, DBT, Kafka, GCP Pub/Sub, Python, CI/CD (GitHub Actions), SCD Type 2, Python, SQL, Eventhub, Ruff, Unittest
+- Azure, Databricks, Fivetran, DBT, Kafka, GCP Pub/Sub, Python, Pyspark, CI/CD (GitHub Actions), SCD Type 2, Python,SQL, Eventhub, DAB(Data Asset Bundle), Terraform((IaC), Unittest, Ruff, Apache Airflow
   
 ---
 
