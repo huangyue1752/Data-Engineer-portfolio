@@ -35,9 +35,10 @@ Developed a real-time data streaming solution to fetch data from the Wikimedia A
 - Utilized the EventSource library for processing real-time data from Wikimedia and Jackson for efficient JSON parsing.
 - Configured MySQL within the Spring Boot application to persist data consumed by Kafka, using Spring Data JPA for efficient data storage.
 - Conducted end-to-end testing of the entire pipeline to ensure reliable data flow from Wikimedia to Event Hub and MySQL.
+- Established CI/CD pipelines with Apache Airflow in Docker.
 
 ## Technologies:
-- Java, Spring Boot, Apache Kafka, Azure Event Hub, MySQL, EventSource, Jackson, Ruff, Unittest
+- Java, Spring Boot, Apache Kafka, Azure Event Hub, MySQL, EventSource, Jackson, Apache Airflow, Docker, Unittest, Ruff
   
 ---
 
