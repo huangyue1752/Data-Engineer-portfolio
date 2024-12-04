@@ -17,8 +17,7 @@ Developed an ETL pipeline to stream and process real-time Shopify order data usi
 - Used DBT for data transformation, building views and tables for reporting and dashboards and deploy it with Apache Airflow
   [Click here to access the DBT package](https://github.com/huangyue1752/DBT/tree/main/demotest)
 - Ensured code quality with unit tests and code linting using Ruff.
-- Established CI/CD pipelines with DAB(Data Asset Bundle) or Terraform((IaC) deployed by GitHub Actions for automation.
-  [Click here to access the Terraform package]([https://github.com/huangyue1752/DAB_test2](https://github.com/huangyue1752/Terraform_ETL_cicd))
+- Established CI/CD pipelines with DAB(Data Asset Bundle) or Terraform((IaC) deployed by GitHub Actions for automation.[Click here to access the Terraform package]([https://github.com/huangyue1752/DAB_test2](https://github.com/huangyue1752/Terraform_ETL_cicd))
   
 ## Technologies:
 - Azure, Databricks, Fivetran, DBT, Kafka, GCP Pub/Sub, Python, Pyspark, CI/CD (GitHub Actions), SCD Type 2, Python,SQL, Eventhub, DAB(Data Asset Bundle), Terraform((IaC), Unittest, Ruff, Apache Airflow
